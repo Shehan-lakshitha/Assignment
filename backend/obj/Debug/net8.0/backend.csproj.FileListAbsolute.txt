@@ -126,3 +126,13 @@ C:\Users\SHEHAN LAKSHITHA\Desktop\Projects\Assignment\backend\obj\Debug\net8.0\r
 C:\Users\SHEHAN LAKSHITHA\Desktop\Projects\Assignment\backend\obj\Debug\net8.0\backend.pdb
 C:\Users\SHEHAN LAKSHITHA\Desktop\Projects\Assignment\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 C:\Users\SHEHAN LAKSHITHA\Desktop\Projects\Assignment\backend\obj\Debug\net8.0\ref\backend.dll
+C:\Users\SHEHAN LAKSHITHA\Desktop\Projects\Assignment\backend\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\SHEHAN LAKSHITHA\Desktop\Projects\Assignment\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SHEHAN LAKSHITHA\Desktop\Projects\Assignment\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SHEHAN LAKSHITHA\Desktop\Projects\Assignment\backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SHEHAN LAKSHITHA\Desktop\Projects\Assignment\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SHEHAN LAKSHITHA\Desktop\Projects\Assignment\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SHEHAN LAKSHITHA\Desktop\Projects\Assignment\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SHEHAN LAKSHITHA\Desktop\Projects\Assignment\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SHEHAN LAKSHITHA\Desktop\Projects\Assignment\backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SHEHAN LAKSHITHA\Desktop\Projects\Assignment\backend\obj\Debug\net8.0\backend.sourcelink.json
